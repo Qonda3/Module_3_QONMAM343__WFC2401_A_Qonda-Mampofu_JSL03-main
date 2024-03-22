@@ -85,4 +85,5 @@ Example #: [https://www.loom.com/share/ff32e17150a84a21b9d25390709de41e?sid=284d
 
 # Learning Outcome [1 Minute]
 - Reflect on what you've learned from analyzing these code examples in different paradigms.
+#: [https://www.loom.com/share/5bfe703dde9b47eabe9eadfdfb15c88c?sid=8dc1c35a-9bbe-4943-ba99-827e4210030a]
 
